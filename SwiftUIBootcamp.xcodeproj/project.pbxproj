@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		93641D4C2693AFC4001280F8 /* TextSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93641D4B2693AFC4001280F8 /* TextSwiftUIView.swift */; };
 		936822DA26936B5500EE4799 /* SwiftUIBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936822D926936B5500EE4799 /* SwiftUIBootcampApp.swift */; };
 		936822DC26936B5500EE4799 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936822DB26936B5500EE4799 /* ContentView.swift */; };
 		936822DE26936B5600EE4799 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 936822DD26936B5600EE4799 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		93641D4B2693AFC4001280F8 /* TextSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSwiftUIView.swift; sourceTree = "<group>"; };
 		936822D626936B5500EE4799 /* SwiftUIBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		936822D926936B5500EE4799 /* SwiftUIBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBootcampApp.swift; sourceTree = "<group>"; };
 		936822DB26936B5500EE4799 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				936822D926936B5500EE4799 /* SwiftUIBootcampApp.swift */,
 				936822DB26936B5500EE4799 /* ContentView.swift */,
+				93641D4B2693AFC4001280F8 /* TextSwiftUIView.swift */,
 				936822DD26936B5600EE4799 /* Assets.xcassets */,
 				936822E226936B5600EE4799 /* Info.plist */,
 				936822DF26936B5600EE4799 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				936822DC26936B5500EE4799 /* ContentView.swift in Sources */,
 				936822DA26936B5500EE4799 /* SwiftUIBootcampApp.swift in Sources */,
+				93641D4C2693AFC4001280F8 /* TextSwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
